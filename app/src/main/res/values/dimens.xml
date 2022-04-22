@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonText">24sp</dimen>
+    <dimen name="bodyText">18sp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="minTouch">48dp</dimen>
+</resources>

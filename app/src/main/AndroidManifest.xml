@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.androidapp.convero">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ConversionApp">
+        <activity
+            android:name=".activities.MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".activities.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.CustomDialogBox"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".activities.AboutUsActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7423615197865998~4303751795" />
+
+        <activity
+            android:name=".activities.TempActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.CookingActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="true" />
+        <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

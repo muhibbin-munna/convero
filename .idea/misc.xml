@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/drawable/ic_history.xml" value="0.10989583333333333" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout-land/activity_cooking.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout-land/activity_temp.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout-land/fragment_home.xml" value="0.1693121693121693" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout-land/history_item.xml" value="0.1693121693121693" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/activity_calculator.xml" value="0.2" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/activity_cooking.xml" value="0.19519927536231885" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/activity_history.xml" value="0.14" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/activity_main2.xml" value="0.1448087431693989" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/activity_temp.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/cooking_activity_land.xml" value="0.12" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/cooking_activity_potrait.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/history_item.xml" value="0.22" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/landscape_cooking.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/nav_drawer_header_layout.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/layout/searchable_spinner_dialog.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/menu/history_menu.xml" value="0.2" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/menu/nav_drawer_menu.xml" value="0.2" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Files/Outside/ConversionApp (1)/ConversionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Sarah Firyal/.gradle/caches/transforms-3/e759884e8e1539e68246ec4d8729cc98/transformed/core-1.5.0/res/layout/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Sarah Firyal/Dev/Fiverr/Convero/ConversionApp/app/src/main/res/layout/activity_custom_dialog_box.xml" value="0.22" />
+        <entry key="..\:/Users/Sarah Firyal/Dev/Fiverr/Convero/ConversionApp/app/src/main/res/layout/dialog_box_custom.xml" value="0.22" />
+        <entry key="..\:/Users/Sarah Firyal/Dev/Fiverr/Convero/ConversionApp/app/src/main/res/layout/ingredient_item.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Sarah Firyal/Dev/Fiverr/Convero/ConversionApp/app/src/main/res/layout/nav_drawer_header_layout.xml" value="0.1585144927536232" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

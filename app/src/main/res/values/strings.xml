@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Convero</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <!-- Fractions -->
+    <string name="quarter">+¼</string>
+    <string name="third">+⅓</string>
+    <string name="half">+½</string>
+
+    <string name="dot">.</string>
+
+    <!-- Image content descriptions -->
+    <string name="swap">swap</string>
+    <string name="backspace">backspace</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="about_us">Be accurate! Convero helps you convert the measurement from US Standard to metric and vice versa, depending on what your recipe calls for. If you have any issues send an email to convero.app@gmail.com. We are more than happy to assist you with the issues!</string>
+    <string name="hello">
+    <![CDATA[
+    <html>
+     <head></head>
+     <body style="text-align:justify;color:black">
+      Be accurate! Convero helps you convert the measurement from US Standard to metric and vice versa, depending on what your recipe calls for. </br></br> If you have any issues send an email to convero.app@gmail.com. We are more than happy to assist you with the issues!
+     </body>
+    </html>
+    ]]>
+    </string>
+    <string name="rate_app_message">Your reviews keep our small team motivated to make Convero even better.</string>
+
+</resources>

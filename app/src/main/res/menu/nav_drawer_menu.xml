@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+    </group>
+
+    <item android:title="Conversion">
+
+        <menu>
+
+            <group>
+
+                <item
+                    android:id="@+id/nav_cooking"
+                    android:icon="@drawable/ic_spoons"
+                    android:title="Cooking" />
+
+                <item
+                    android:id="@+id/nav_temp"
+                    android:icon="@drawable/ic_temperature"
+                    android:title="Temperature" />
+                <item
+                    android:id="@+id/nav_history"
+                    android:icon="@drawable/ic_history"
+                    android:title="History" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+
+        <menu>
+
+            <item
+                android:id="@+id/menu_remove_ads"
+                android:icon="@drawable/ic_remove_ads"
+                android:title="Remove Ads" />
+            <item
+                android:id="@+id/menu_about_us"
+                android:icon="@drawable/ic_about"
+                android:title="About Us" />
+            <item
+                android:id="@+id/menu_rate"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/menu_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share App" />
+
+        </menu>
+    </item>
+</menu>
