@@ -11,21 +11,21 @@ Gram to ounces, Cup to ounce, Celsius to Fahrenheit, and more.</b> Now you can e
 <b>The app include conversion calculators for Volume, Weight, and Temperature. For most conversions, you can directly type in or use fractions as an input value, such as "1 1/2" or “3/4”.</b>
 
 <b>CONVERO APP FEATURES</b>
-✓ Recipe conversion
-✓ Temperature Converter
-✓ 500+ Ingredients
-✓ Serving Size calculator
+✓ Recipe conversion</br>
+✓ Temperature Converter</br>
+✓ 500+ Ingredients</br>
+✓ Serving Size calculator</br>
 ✓ 14 Units (US Standard & Metric)
 
 <b>★ EXAMPLES OF COOKING MEASUREMENTS CONVERSIONS:</b>
-✓ Cups to gram
-✓ Tsp to gram
-✓ Oz to gram
-✓ Oz to ml
-✓ Tsp to tbsp
-✓ Lb to kg
-✓ Ml to fl oz
-✓ Fl oz to ml
+✓ Cups to gram</br>
+✓ Tsp to gram</br>
+✓ Oz to gram</br>
+✓ Oz to ml</br>
+✓ Tsp to tbsp</br>
+✓ Lb to kg</br>
+✓ Ml to fl oz</br>
+✓ Fl oz to ml</br>
 ✓ Celsius to Fahrenheit
 
 <b>HIGHLIGHTS:</b>
